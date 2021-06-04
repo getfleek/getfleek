@@ -1185,6 +1185,7 @@ button {
     display:block;
     padding: 50px 40px;
     cursor: pointer;
+    top: 0;
   }
 }
 
