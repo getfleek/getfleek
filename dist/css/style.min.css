@@ -1183,7 +1183,7 @@ button {
   .navbar1 .menu{
     float:right;
     display:block;
-    padding: 50px 40px;
+    padding: 0px 40px;
     cursor: pointer;
     top: 0;
   }
