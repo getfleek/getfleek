@@ -1179,6 +1179,15 @@ button {
   
 }
 
+@media screen and (max-width: 500px) {
+  .navbar1 .menu{
+    float:right;
+    display:block;
+    padding: 50px 40px;
+    cursor: pointer;
+  }
+}
+
 @media screen and (max-width: 1110px) {
   .navbar1 a.item1 {display: none;}
     .navbar1 a.item2 {display: none;}
