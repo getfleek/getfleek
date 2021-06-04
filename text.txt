@@ -1,0 +1,42 @@
+<img class="vector1" src="./assets/Vector.svg">
+        <img class="vector3" src="./assets/Vector3.svg">
+        <img class="vector4" src="./assets/Vector4.svg">
+        <img class="vector5" src="./assets/Vector5.svg">
+        <img class="vector6" src="./assets/Vector6.svg">
+        <img class="vector7" src="./assets/Vector7.svg">
+        <img class="vector8" src="./assets/Vector8.svg">
+        <img class="vector9" src="./assets/Vector9.svg">
+        <img class="ep1" src="./assets/Ellipse1.svg" alt="">
+        <img class="ep3" src="./assets/Ellipse3.svg" alt="">
+        <img class="ep4" src="./assets/Ellipse4.svg">
+        <img class="ep5" src="./assets/Ellipse5.svg">
+        <img class="ep6" src="./assets/Ellipse6.svg">
+        <img class="ep7" src="./assets/Ellipse7.svg">
+        <img class="ep8" src="./assets/Ellipse8.svg">
+        <img class="ep9" src="./assets/Ellipse9.svg">
+        <img class="ep10" src="./assets/Ellipse10.svg">
+
+        <img class="v1" src="./assets/v1.svg">
+        <img class="v2" src="./assets/v2.svg">
+        <img class="v3" src="./assets/v3.svg">
+        <img class="v4" src="./assets/v4.svg">
+        <img class="v5" src="./assets/v5.svg">
+        <img class="v6" src="./assets/v6.svg">
+        <img class="v7" src="./assets/v7.svg">
+        <img class="v8" src="./assets/v8.svg">
+        <img class="v9" src="./assets/v9.svg">
+
+        <img class="e1" src="./assets/e1.svg">
+        <img class="e2" src="./assets/e2.svg">
+        <img class="e3" src="./assets/e3.svg">
+        <img class="e4" src="./assets/e4.svg">
+        <img class="e5" src="./assets/e5.svg">
+        <img class="e6" src="./assets/e6.svg">
+        <img class="e7" src="./assets/e7.svg">
+        <img class="e8" src="./assets/e8.svg">
+        <img class="e9" src="./assets/e9.svg">
+        <img class="e10" src="./assets/e10.svg">
+        <img class="e11" src="./assets/e11.svg">
+
+       
+        

@@ -1,0 +1,116 @@
+<div class="section2">
+        <div class="section2image">
+            <img src="image4.jpg" width="600px" height="500px">
+        </div>
+        <div class="section2text">
+            <h1 style="width: 400px;">In partnership with an RBI Governed Bank</h1>
+            <h3 style="color: #514B48; width: 600px;">Users access Fi's Savings Account &amp; VISA debit card, through our partnership with RBI-licensed Federal Bank&#8228;</h3>
+            </div>
+    </div>
+
+    <div class="section2">
+        <div class="section2text">
+        <h1 style="width: 400px;">Manage your subscriptions</h1>
+        <h3 style="color: #514B48; width: 600px;">No, we aren't&#8228; Here's what we do – build on existing banking infrastructure and take it to a whole new level&#8228; Think of it as banking 2&#8228;0 for a generation of digital natives&#8228;</h3>
+        </div>
+        <div class="section2image">
+            <img src="image1.jpg" width="600px" height="500px">
+        </div>
+    </div>
+
+    <div class="section2">
+        <div class="section2image">
+            <img src="image2.jpg" width="600px" height="500px">
+        </div>
+        <div class="section2text">
+            <h1 style="width: 400px;">Split Subscriptions</h1>
+            <h3 style="color: #514B48; width: 600px;">Fi is a financial app that comes with an in-built savings account, though some people prefer the buzzword 'neobank'&#8228; Emboldened by cutting edge tech, Fi helps you know your money, grow your money and organise your funds&#8228;</h3>
+            </div>
+    </div>
+
+   
+
+
+
+          <div class="column">
+            <div class="shape2" style="border-radius: 10px 10px 10px 10px; height: 504px; background-color: #8D8D8D;">
+                <h2 style="padding: 10px; width: 10px; color: #D9F2CC; font-size: 30px;">See yourself here?</h2>
+                <h3 style="padding: 10px; color: white; width: 180px;">Join the team and help us build the future of the subscription economy&#8228;</h3>
+                <h5 style="padding: 15px 10px; color: white; padding: 125px 10px; font-size: 20px;"><a href="https://fi.money/teams" target="blank_">View open roles</a></h5>
+            </div>
+          </div>
+
+
+
+          <div class="column">
+            <img src="people2.png" style="width:100%; border-radius: 10px 10px 0 0;">
+            <div class="shape">
+                <h2 style="padding: 10px;">Abhinav</h2>
+                <h3 style="padding: 10px; color: #8B8B8B;">Product</h3>
+                <h5 style="padding: 30px 10px; color: #8B8B8B;">IIT-M</h5>
+            </div>
+          </div>
+          <div class="column">
+            <img src="people6.jpg" style="width:100%; border-radius: 10px 10px 0 0;">
+            <div class="shape">
+                <h2 style="padding: 10px;">Tarun Goyal</h2>
+                <h3 style="padding: 10px; color: #8B8B8B;">Tech, Poker Dealer</h3>
+                <h5 style="padding: 35px 10px; color: #8B8B8B;">Ex-Google</h5>
+            </div>
+          </div>
+          <div class="column">
+            <img src="people7.jpg" style="width:100%; border-radius: 10px 10px 0 0;">
+            <div class="shape">
+                <h2 style="padding: 10px;">Maanasa Sridhar</h2>
+                <h3 style="padding: 10px; color: #8B8B8B;">Product, Bookworm</h3>
+                <h5 style="padding: 35px 10px; color: #8B8B8B;">Ex-PayPal</h5>
+            </div>
+          </div>
+          <div class="column">
+            <img src="people8.jpeg" style="width:100%; border-radius: 10px 10px 0 0;">
+            <div class="shape">
+                <h2 style="padding: 10px;">Pruthvi Sabbu</h2>
+                <h3 style="padding: 10px; color: #8B8B8B;">Tech, Counterstrike Champ</h3>
+                <h5 style="padding: 35px 10px; color: #8B8B8B;">Ex-AasaanPay</h5>
+            </div>
+          </div>
+          <div class="column">
+            <img src="people9.jpeg" style="width:100%; border-radius: 10px 10px 0 0;">
+            <div class="shape">
+                <h2 style="padding: 10px;">Priyanka Arora</h2>
+                <h3 style="padding: 10px; color: #8B8B8B;">Product, Dog Mom</h3>
+                <h5 style="padding: 35px 10px; color: #8B8B8B;">Ex-Matchmove</h5>
+            </div>
+          </div>
+          <div class="column">
+            <img src="people10.jpg" style="width:100%; border-radius: 10px 10px 0 0;">
+            <div class="shape" style="height: 237px;">
+                <h2 style="padding: 10px;">Abhilash KV</h2>
+                <h3 style="padding: 10px; color: #8B8B8B;">Product Design, Urban Farmer</h3>
+                <h5 style="padding: 20px 10px; color: #8B8B8B;">Ex-Samsung</h5>
+            </div>
+          </div>
+          <div class="column">
+            <img src="people11.jpg" style="width:100%; border-radius: 10px 10px 0 0;">
+            <div class="shape">
+                <h2 style="padding: 10px;">Maithreyi Sairam</h2>
+                <h3 style="padding: 10px; color: #8B8B8B;">People and Culture, Gin-thusiast</h3>
+                <h5 style="padding: 15px 10px; color: #8B8B8B;">Ex-inMobi</h5>
+            </div>
+          </div>    
+          <div class="column">
+            <img src="people13.jpg" style="width:100%; border-radius: 10px 10px 0 0;">
+            <div class="shape">
+                <h2 style="padding: 10px;">Maithreyi Sairam</h2>
+                <h3 style="padding: 10px; color: #8B8B8B;">People and Culture, Gin-thusiast</h3>
+                <h5 style="padding: 15px 10px; color: #8B8B8B;">Ex-inMobi</h5>
+            </div>
+          </div>
+
+          <div class="column">
+            <div class="shape2" style="border-radius: 10px 10px 10px 10px; height: 504px; background-color: #8D8D8D;">
+                <h2 style="padding: 10px; width: 10px; color: #D9F2CC; font-size: 30px;">See yourself here?</h2>
+                <h3 style="padding: 10px; color: white; width: 180px;">Join the team and help us build the future of the subscription economy&#8228;</h3>
+                <h5 style="padding: 15px 10px; color: white; padding: 125px 10px; font-size: 20px;"><a href="https://fi.money/teams" target="blank_">View open roles</a></h5>
+            </div>
+          </div>
