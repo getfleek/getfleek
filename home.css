@@ -424,7 +424,7 @@ html {
   .navbar1 a.active {display: none;}
   .navbar1 .menu{
     float:right;
-    display:none;
+    display:block;
     padding: 50px 40px;
     cursor: pointer;
   }
